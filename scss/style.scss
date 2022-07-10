@@ -175,11 +175,11 @@ h6,
 }
 
 .page-header {
-    height: 400px;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/header.jpg);
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/about.png);
     background-position: top;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% ;
 }
 
 @media (max-width: 991.98px) {
